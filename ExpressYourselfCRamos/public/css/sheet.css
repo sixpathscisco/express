@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+form > div {
+    flex: 1;
+}
+
+p {
+    font-size: 30px;
+}
